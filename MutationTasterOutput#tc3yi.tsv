@@ -1,0 +1,168 @@
+chromosome	position	genesymbol	pred_index	model	probability	alt_type	AAE	snp_id	allele_ref	allele_alt	f_ClinVar	features	coverage	gt/freq(var)	filename
+17	40695900	NAGLU<br>compound	disease_causing_automatic	simple_aae	0.431031	single base exchange	R626G		C	G	known disease mutation		2	het
+17	40695970	NAGLU<br>compound	disease_causing_automatic	simple_aae	1	single base exchange	W649S		G	C	known disease mutation		2	het
+17	40690418	NAGLU<br>compound	disease_causing	simple_aae	0.999989	single base exchange	F198Y		T	A		splicing affected; protein features affected	2	het
+17	40690770	NAGLU<br>compound	disease_causing	simple_aae	0.735314	single base exchange	T254I		C	T		splicing affected; protein features affected	2	het
+17	40695129	NAGLU<br>compound	disease_causing	simple_aae	0.585376	single base exchange	V369L		G	T			2	het
+17	40693217	NAGLU<br>compound	disease_causing	simple_aae	0.999999	single base exchange	M338I		G	A		splicing affected; protein features affected	2	het
+17	40690691	NAGLU<br>compound	disease_causing	simple_aae	0.948716	single base exchange	R228W	368907396	C	T			2	het
+17	40692991	NAGLU<br>compound	disease_causing	simple_aae	0.893827	single base exchange	T263M		C	T			2	het
+17	40695144	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	P374S		C	T		splicing affected; protein features affected	2	het
+17	40689436	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	V135G		T	G		splicing affected; protein features affected	2	het
+17	40690401	NAGLU<br>compound	disease_causing	simple_aae	0.999006	single base exchange	F192L		C	A		splicing affected; protein features affected	2	het
+17	40695346	NAGLU<br>compound	disease_causing	simple_aae	0.971364	single base exchange	T441M	138695961	C	T		splicing affected; protein features affected	2	het
+17	40693009	NAGLU<br>compound	disease_causing	simple_aae	0.518451	single base exchange	G269D		G	A		splicing affected; protein features affected	2	het
+17	40690692	NAGLU<br>compound	disease_causing	simple_aae	0.538874	single base exchange	R228Q	146456266	G	A		splicing affected; protein features affected	2	het
+17	40693120	NAGLU<br>compound	disease_causing	simple_aae	0.999527	single base exchange	D306G		A	G		splicing affected; protein features affected	2	het
+17	40695220	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	G399V		G	T		splicing affected; protein features affected	2	het
+17	40689442	NAGLU<br>compound	disease_causing	simple_aae	0.999999	single base exchange	T137M	534663244	C	T			2	het
+17	40690719	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	G237D		G	A		splicing affected; protein features affected	2	het
+17	40693020	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	C273R		T	C			2	het
+17	40693126	NAGLU<br>compound	disease_causing	simple_aae	0.999233	single base exchange	I308T		T	C		splicing affected; protein features affected	2	het
+17	40695236	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	W404C		G	C		splicing affected; protein features affected	2	het
+17	40690429	NAGLU<br>compound	disease_causing	simple_aae	0.931448	single base exchange	G202R		G	A		splicing affected; protein features affected	2	het
+17	40693030	NAGLU<br>compound	disease_causing	simple_aae	0.999963	single base exchange	S276F		C	T		splicing affected; protein features affected	2	het
+17	40695069	NAGLU<br>compound	disease_causing	simple_aae	0.99824	single base exchange	L349F		C	T		splicing affected; protein features affected	2	het
+17	40690736	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	P243S		C	T		splicing affected; protein features affected	2	het
+17	40693132	NAGLU<br>compound	disease_causing	simple_aae	0.999999	single base exchange	G310V		G	T		splicing affected; protein features affected	2	het
+17	40695246	NAGLU<br>compound	disease_causing	simple_aae	0.99998	single base exchange	H408Y		C	T		splicing affected; protein features affected	2	het
+17	40695153	NAGLU<br>compound	disease_causing	simple_aae	0.999942	single base exchange	R377C		C	T		splicing affected; protein features affected	2	het
+17	40690437	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	M204I	374904049	G	T		splicing affected; protein features affected	2	het
+17	40695357	NAGLU<br>compound	disease_causing	simple_aae	0.999894	single base exchange	P445S		C	T			2	het
+17	40690739	NAGLU<br>compound	disease_causing	simple_aae	0.999948	single base exchange	A244T		G	A		splicing affected; protein features affected	2	het
+17	40693045	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	L281P		T	C			2	het
+17	40693132	NAGLU<br>compound	disease_causing	simple_aae	0.923241	single base exchange	G310A		G	C		splicing affected; protein features affected	2	het
+17	40695076	NAGLU<br>compound	disease_causing	simple_aae	0.999885	single base exchange	G351A	376582504	G	C		splicing affected; protein features affected	2	het
+17	40695285	NAGLU<br>compound	disease_causing	simple_aae	0.999952	single base exchange	E421K		G	A		splicing affected; protein features affected	2	het
+17	40695154	NAGLU<br>compound	disease_causing	simple_aae	0.985228	single base exchange	R377H	199850748	G	A		splicing affected; protein features affected	2	het
+17	40690456	NAGLU<br>compound	disease_causing	simple_aae	0.879566	single base exchange	D211N	145452809	G	A			2	het
+17	40689493	NAGLU<br>compound	disease_causing	simple_aae	0.999718	single base exchange	I154T		T	C		splicing affected; protein features affected	2	het
+17	40693051	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	P283L		C	T			2	het
+17	40695085	NAGLU<br>compound	disease_causing	simple_aae	0.999999	single base exchange	F354S		T	C		splicing affected; protein features affected	2	het
+17	40693168	NAGLU<br>compound	disease_causing	simple_aae	0.957167	single base exchange	S322L		C	T		splicing affected; protein features affected	2	het
+17	40695178	NAGLU<br>compound	disease_causing	simple_aae	0.999983	single base exchange	A385V		C	T		splicing affected; protein features affected	2	het
+17	40695301	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	G426A		G	C		splicing affected; protein features affected	2	het
+17	40695384	NAGLU<br>compound	disease_causing	simple_aae	0.992453	single base exchange	V454F		G	T		splicing affected; protein features affected	2	het
+17	40689504	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	A158S	542076832	G	T		splicing affected; protein features affected	2	het
+17	40693182	NAGLU<br>compound	disease_causing	simple_aae	0.999949	single base exchange	L327F		C	T		splicing affected; protein features affected	2	het
+17	40695315	NAGLU<br>compound	disease_causing	simple_aae	0.998774	single base exchange	R431C		C	T		splicing affected; protein features affected	2	het
+17	40695388	NAGLU<br>compound	disease_causing	simple_aae	0.999988	single base exchange	Y455S		A	C		splicing affected; protein features affected	2	het
+17	40695180	NAGLU<br>compound	disease_causing	simple_aae	0.999993	single base exchange	E386K		G	A			2	het
+17	40695328	NAGLU<br>compound	disease_causing	simple_aae	0.999989	single base exchange	N435T		A	C		splicing affected; protein features affected	2	het
+17	40695408	NAGLU<br>compound	disease_causing	simple_aae	0.998994	single base exchange	G462R		G	C		splicing affected; protein features affected	2	het
+17	40695415	NAGLU<br>compound	disease_causing	simple_aae	0.987124	single base exchange	R464Q	377282648	G	A		splicing affected; protein features affected	2	het
+17	40695459	NAGLU<br>compound	disease_causing	simple_aae	0.999207	single base exchange	A479T	202115696	G	A			2	het
+17	40695630	NAGLU<br>compound	disease_causing	simple_aae	0.95175	single base exchange	V536M	553158830	G	A		splicing affected; protein features affected	2	het
+17	40695958	NAGLU<br>compound	disease_causing	simple_aae	0.999995	single base exchange	Q645P		A	C			2	het
+17	40695532	NAGLU<br>compound	disease_causing	simple_aae	0.999975	single base exchange	N503S		A	G		splicing affected; protein features affected	2	het
+17	40695465	NAGLU<br>compound	disease_causing	simple_aae	0.978957	single base exchange	R481W		C	T		splicing affected; protein features affected	2	het
+17	40695649	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	L542P		T	C			2	het
+17	40696233	NAGLU<br>compound	disease_causing	simple_aae	0.666075	single base exchange	R737C		C	T		splicing affected	2	het
+17	40695550	NAGLU<br>compound	disease_causing	simple_aae	0.68091	single base exchange	C509Y	372781575	G	A		splicing affected; protein features affected	2	het
+17	40695649	NAGLU<br>compound	disease_causing	simple_aae	0.998783	single base exchange	L542R		T	G		splicing affected; protein features affected	2	het
+17	40696178	NAGLU<br>compound	disease_causing	simple_aae	0.544465	single base exchange	Q718H		G	C		splicing affected	2	het
+17	40695562	NAGLU<br>compound	disease_causing	simple_aae	0.999735	single base exchange	N513S	200465065	A	G			2	het
+17	40695807	NAGLU<br>compound	disease_causing	simple_aae	0.999897	single base exchange	G595R		G	A		splicing affected	2	het
+17	40695564	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	R514C		C	T		splicing affected; protein features affected	2	het
+17	40695810	NAGLU<br>compound	disease_causing	simple_aae	0.999997	single base exchange	G596C		G	T			2	het
+17	40696188	NAGLU<br>compound	disease_causing	simple_aae	0.98884	single base exchange	D722N	367726645	G	A		splicing affected	2	het
+17	40695502	NAGLU<br>compound	disease_causing	simple_aae	0.999999	single base exchange	A493V		C	T		splicing affected; protein features affected	2	het
+17	40695565	NAGLU<br>compound	disease_causing	simple_aae	0.982158	single base exchange	R514H		G	A			2	het
+17	40696081	NAGLU<br>compound	disease_causing	simple_aae	0.601394	single base exchange	V686A		T	C			2	het
+17	40695693	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	R557C		C	T		splicing affected	2	het
+17	40695511	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	L496P	569519789	T	C			2	het
+17	40695589	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	S522F		C	T			2	het
+17	40695694	NAGLU<br>compound	disease_causing	simple_aae	0.998687	single base exchange	R557L		G	T		splicing affected	2	het
+17	40696107	NAGLU<br>compound	disease_causing	simple_aae	0.585847	single base exchange	H695Y	146582131	C	T		splicing affected	2	het
+17	40695699	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	D559H		G	C		splicing affected	2	het
+17	40696215	NAGLU<br>compound	disease_causing	simple_aae	0.999973	single base exchange	F731V		T	G		splicing affected	2	het
+17	40695699	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	D559N		G	A			2	het
+17	40696231	NAGLU<br>compound	disease_causing	simple_aae	0.999995	single base exchange	P736L		C	T		splicing affected	2	het
+17	40690367	NAGLU<br>compound	disease_causing	simple_aae	0.525349	single base exchange	A181D	149859697	C	A			2	het
+17	40688640	NAGLU<br>compound	disease_causing	simple_aae	0.808957	single base exchange	V117A		T	C			2	het
+17	40695106	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	W361S		G	C		splicing affected; protein features affected	2	het
+17	40690489	NAGLU<br>compound	disease_causing	simple_aae	0.999392	single base exchange	Q222E		C	G		splicing affected; protein features affected	2	het
+17	40693083	NAGLU<br>compound	disease_causing	simple_aae	0.992853	single base exchange	L294F		C	T		splicing affected; protein features affected	2	het
+17	40688642	NAGLU<br>compound	disease_causing	simple_aae	0.753688	single base exchange	P118S		C	T			2	het
+17	40690373	NAGLU<br>compound	disease_causing	simple_aae	1	single base exchange	G183A	541061018	G	C		splicing affected; protein features affected	2	het
+17	40690496	NAGLU<br>compound	disease_causing	simple_aae	0.990361	single base exchange	Y224C		A	G		splicing affected; protein features affected	2	het
+17	40692985	NAGLU<br>compound	disease_causing	simple_aae	0.674214	single base exchange	N261S		A	G		splicing affected; protein features affected	2	het
+17	40693203	NAGLU<br>compound	disease_causing	simple_aae	0.862268	single base exchange	V334I		G	A		splicing affected; protein features affected	2	het
+17	40689424	NAGLU<br>compound	disease_causing	simple_aae	0.999922	single base exchange	Y131S		A	C		splicing affected; protein features affected	2	het
+17	40690394	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	N190S	375458666	A	G		splicing affected; protein features affected	2	het
+17	40693188	NAGLU<br>compound	polymorphism	simple_aae	0.999961	single base exchange	A329T		G	A		splicing affected; protein features affected	2	het
+17	40693071	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	I290V		A	G		splicing affected; protein features affected	2	het
+17	40696066	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A681V	540744217	C	T		splicing affected	2	het
+17	40690766	NAGLU<br>compound	polymorphism	simple_aae	0.999995	single base exchange	V253I		G	A		splicing affected; protein features affected	2	het
+17	40695930	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	D636N	375068243	G	A		splicing affected	2	het
+17	40692981	NAGLU<br>compound	polymorphism	simple_aae	0.989219	single base exchange	V260I		G	A		splicing affected; protein features affected	2	het
+17	40696149	NAGLU<br>compound	polymorphism	simple_aae	0.970058	single base exchange	V709I		G	A		splicing affected	2	het
+17	40693198	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	T332I		C	T			2	het
+17	40695122	NAGLU<br>compound	polymorphism	simple_aae	0.999999	single base exchange	I366M		C	G		splicing affected; protein features affected	2	het
+17	40696245	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	G741S	553153753	G	A			2	het
+17	40695922	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A633G	74729489	C	G		splicing affected	2	het
+17	40695391	NAGLU<br>compound	polymorphism	simple_aae	0.857861	single base exchange	S456F		C	T		splicing affected; protein features affected	2	het
+17	40695334	NAGLU<br>compound	polymorphism	simple_aae	0.622831	single base exchange	T437S		C	G		splicing affected; protein features affected	2	het
+17	40695867	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	R615C	199729746	C	T		splicing affected	2	het
+17	40693093	NAGLU<br>compound	polymorphism	simple_aae	0.807216	single base exchange	R297Q	200625281	G	A		splicing affected; protein features affected	2	het
+17	40696133	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	Q703H		A	C		splicing affected	2	het
+17	40695454	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	S477T	369970264	G	C		splicing affected; protein features affected	2	het
+17	40693074	NAGLU<br>compound	polymorphism	simple_aae	0.998334	single base exchange	I291L	199625480	A	C		splicing affected; protein features affected	2	het
+17	40695202	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	R393H		G	A			2	het
+17	40695912	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	V630I		G	A		splicing affected	2	het
+17	40693102	NAGLU<br>compound	polymorphism	simple_aae	0.982837	single base exchange	I300T	371351618	T	C		splicing affected; protein features affected	2	het
+17	40695520	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	R499Q	368183484	G	A			2	het
+17	40695712	NAGLU<br>compound	polymorphism	simple_aae	0.624407	single base exchange	L563H		T	A		splicing affected	2	het
+17	40695846	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	E608K		G	A		splicing affected	2	het
+17	40695216	NAGLU<br>compound	polymorphism	simple_aae	0.930725	single base exchange	Q398K	553293896	C	A		splicing affected; protein features affected	2	het
+17	40695462	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A480T	147293270	G	A		splicing affected; protein features affected	2	het
+17	40695882	NAGLU<br>compound	polymorphism	simple_aae	0.996732	single base exchange	S620G		A	G		splicing affected	2	het
+17	40695813	NAGLU<br>compound	polymorphism	simple_aae	0.999991	single base exchange	V597I		G	A			2	het
+17	40693218	NAGLU<br>compound	polymorphism	simple_aae	0.999705	single base exchange	T339P		A	C		splicing affected; protein features affected	2	het
+17	40696209	NAGLU<br>compound	polymorphism	simple_aae	0.990195	single base exchange	K729Q	144807822	A	C		splicing affected	2	het
+17	40695727	NAGLU<br>compound	polymorphism	simple_aae	0.999994	single base exchange	V568G		T	G		splicing affected	2	het
+17	40695646	NAGLU<br>compound	polymorphism	simple_aae	0.563005	single base exchange	R541Q	376300258	G	A			2	het
+17	40696152	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	L710V	371348286	C	G			2	het
+17	40695147	NAGLU<br>compound	polymorphism	simple_aae	0.999999	single base exchange	R375C	534847909	C	T			2	het
+17	40695355	NAGLU<br>compound	polymorphism	simple_aae	0.999599	single base exchange	A444V		C	T			2	het
+17	40689538	NAGLU<br>compound	polymorphism	simple_aae	0.999991	single base exchange	S169N		G	A		splicing affected; protein features affected	2	het
+17	40695087	NAGLU<br>compound	polymorphism	simple_aae	0.836204	single base exchange	Q355K		C	A		splicing affected; protein features affected	2	het
+17	40695687	NAGLU<br>compound	polymorphism	simple_aae	0.999994	single base exchange	A555T		G	A			2	het
+17	40693221	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A340T		G	A		splicing affected; protein features affected	2	het
+17	40696233	NAGLU<br>compound	polymorphism	simple_aae	0.993077	single base exchange	R737S	86312	C	A		splicing affected	2	het
+17	40695541	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	G506E		G	A		splicing affected; protein features affected	2	het
+17	40690472	NAGLU<br>compound	polymorphism	simple_aae	0.999996	single base exchange	P216R		C	G			2	het
+17	40688337	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A16V	575956298	C	T		protein features affected	2	het
+17	40695148	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	R375H		G	A			2	het
+17	40695355	NAGLU<br>compound	polymorphism	simple_aae	0.998276	single base exchange	A444D		C	A			2	het
+17	40696087	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	Q688R		A	G			2	het
+17	40695741	NAGLU<br>compound	polymorphism	simple_aae	0.874099	single base exchange	S573G	369131160	A	G			2	het
+17	40696165	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	R714M		G	T		splicing affected	2	het
+17	40695487	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	P488L		C	T			2	het
+17	40695622	NAGLU<br>compound	polymorphism	simple_aae	0.934623	single base exchange	R533Q		G	A		splicing affected; protein features affected	2	het
+17	40695901	NAGLU<br>compound	polymorphism	simple_aae	0.9876	single base exchange	R626Q	376545731	G	A		splicing affected	2	het
+17	40695943	NAGLU<br>compound	polymorphism	simple_aae	0.908491	single base exchange	Q640R		A	G		splicing affected	2	het
+17	40696041	NAGLU<br>compound	polymorphism	simple_aae	0.999795	single base exchange	P673S		C	T			2	het
+17	40695748	NAGLU<br>compound	polymorphism	simple_aae	0.569931	single base exchange	Y575C		A	G			2	het
+17	40689487	NAGLU<br>compound	polymorphism	simple_aae	0.999996	single base exchange	R152Q	141018386	G	A		splicing affected; protein features affected	2	het
+17	40695913	NAGLU<br>compound	polymorphism	simple_aae	0.999631	single base exchange	V630G		T	G		splicing affected	2	het
+17	40696210	NAGLU<br>compound	polymorphism	simple_aae	0.992721	single base exchange	K729R		A	G		splicing affected	2	het
+17	40695492	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A490T		G	A		splicing affected; protein features affected	2	het
+17	40695904	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A627V	140905880	C	T		splicing affected	2	het
+17	40695813	NAGLU<br>compound	polymorphism	simple_aae	0.999966	single base exchange	V597L		G	C		splicing affected	2	het
+17	40696234	NAGLU<br>compound	polymorphism	simple_aae	0.999984	single base exchange	R737H	373898536	G	A		splicing affected	2	het
+17	40695663	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A547T		G	A			2	het
+17	40695370	NAGLU<br>compound	polymorphism	simple_aae	0.999999	single base exchange	S449N	114605439	G	A		splicing affected; protein features affected	2	het
+17	40695519	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	R499W	200981229	C	T			2	het
+17	40696050	NAGLU<br>compound	polymorphism	simple_aae	0.996293	single base exchange	R676W		C	T			2	het
+17	40696183	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	R720Q		G	A		splicing affected	2	het
+17	40695496	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	G491A		G	C		splicing affected; protein features affected	2	het
+17	40690760	NAGLU<br>compound	polymorphism	simple_aae	0.987414	single base exchange	E251K		G	A		splicing affected; protein features affected	2	het
+17	40690471	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	P216S		C	T		splicing affected; protein features affected	2	het
+17	40695907	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A628V	535336259	C	T		splicing affected	2	het
+17	40695595	NAGLU<br>compound	polymorphism	simple_aae	0.997601	single base exchange	Q524R		A	G			2	het
+17	40696242	NAGLU<br>compound	polymorphism	simple_aae	1	single base exchange	A740P		G	C		splicing affected	2	het
+17	40696233	NAGLU<br>compound	polymorphism_automatic	simple_aae	0.993732	single base exchange	R737G	86312	C	G			2	het
+17	40689453	NAGLU<br>compound	polymorphism_automatic	simple_aae	1.84802e-06	single base exchange	S141T	61737294	T	A		splicing affected; protein features affected	2	het
+
+############## MutationTaster predictions were generated using data from Ensembl69 ##############
